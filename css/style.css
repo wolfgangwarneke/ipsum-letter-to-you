@@ -1,0 +1,19 @@
+#yourletter {
+  display: none;
+  font-family: cursive;
+  background-color: #fffff5;
+  border: 1px dotted #888;
+  box-shadow: 4px 4px 5px #bbb;
+  margin-top: 15px;
+  padding: 15px;
+  max-width: 600px;
+}
+
+.glyphicon-heart {
+  color: pink;
+}
+
+#signature {
+  color: purple;
+  text-shadow: 2px 2px 2px #999;
+}
